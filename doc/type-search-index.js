@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Client","h":"","u":""},{"l":"DictQuery","h":"","u":""},{"l":"DictServer","h":"","u":""},{"l":"MainClass","h":"","u":""},{"l":"RemoteDictionary","h":"","u":""},{"l":"RemoteDictionary.LanguageType","h":"","u":""},{"l":"Word","h":"","u":""}]
